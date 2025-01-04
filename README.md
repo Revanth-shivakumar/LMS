@@ -44,7 +44,12 @@
 
 ## 👾 Features
 
-<code>❯ REPLACE-ME</code>
+1. Google account login
+2. Customizable notification preference
+3. Stripe payment integration
+4. Containarized backend suitable for deployment in AWS ECR
+5. S3 Bucket stirage for content videos
+6. AWS DynamoDB
 
 ---
 
