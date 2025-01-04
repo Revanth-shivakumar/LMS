@@ -53,7 +53,7 @@
 
 ---
 ## Demo
-    [[https://drive.google.com/file/d/1reD-V7Mo79F-bUn3Ursl0klB2JNHQCuA/view?usp=sharing]]
+https://drive.google.com/file/d/1reD-V7Mo79F-bUn3Ursl0klB2JNHQCuA/view?usp=sharing
 
 ## 📁 Project Structure
 
