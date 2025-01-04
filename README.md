@@ -38,7 +38,7 @@
 
 ## 📍 Overview
 
-<code>❯ REPLACE-ME</code>
+<code>❯ A Full Stack Learning Management App with user and teacher roles and video completion tracking with stripe payment integration </code>
 
 ---
 
